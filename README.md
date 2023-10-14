@@ -1,4 +1,5 @@
 [![Coelho's GitHub stats](https://github-readme-stats.vercel.app/api?username=coelho42&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coelho42)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
