@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![Coelho's GitHub stats](https://github-readme-stats.vercel.app/api?username=coelho42&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Coelho's GitHub stats](https://github-readme-stats.vercel.app/api?username=coelho42&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Coelho42/Coelho42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
